@@ -1,5 +1,5 @@
 FactoryBot.define do
   factory :country do
-    name { "MyString" }
+    name { "Canada" }
   end
 end
